@@ -15,12 +15,12 @@ Bu proje, kullanıcıların belirli bir aralıktaki sayıyı tahmin etmeye çal�
 
 1. Bu depoyu bilgisayarınıza klonlayın:
     ```sh
-    git clone https://github.com/kullaniciadi/tahmin-oyunu.git
+    git clone https://github.com/PourLa/Tahmin-Oyunu.git
     ```
 
 2. Proje dizinine gidin:
     ```sh
-    cd tahmin-oyunu
+    cd Tahmin-Oyunu
     ```
 
 3. Gerekli Python paketlerini yükleyin (eğer varsa):
@@ -32,7 +32,7 @@ Bu proje, kullanıcıların belirli bir aralıktaki sayıyı tahmin etmeye çal�
 
 1. Tahmin oyununu başlatmak için aşağıdaki komutu çalıştırın:
     ```sh
-    python tahmin_oyunu.py
+    python Tahmin-Oyunu.py
     ```
 
 2. Ekrandaki talimatları takip edin ve sayıyı tahmin etmeye başlayın!
